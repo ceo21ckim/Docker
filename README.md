@@ -16,3 +16,11 @@
 [commit image][commitlink] : container를 생성한 후 image로 commit하는 과정을 다룹니다. 
 
 [commitlink]: https://ok-lab.tistory.com/119 "commit"
+
+[volume and bind mount][vablink] : Volume과 bind mount 간 차이에 대해서 다룹니다. 
+
+[vablink]:https://ok-lab.tistory.com/121 "volume and bind mount"
+
+[exec, attach, run][earlink] : docker에서 container에 접속하는 명령어인 exec, attach, run에 대해서 비교하는 내용을 다룹니다. 
+
+[earlink]:https://ok-lab.tistory.com/122 "exec, attach, run"

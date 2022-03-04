@@ -25,7 +25,7 @@
 
 [earlink]:https://ok-lab.tistory.com/122 "exec, attach, run"
 
-[configuration][cofigurationlink] : container 내부에서 환경 변수를 설정하는 방법을 다룹니다. 
+[configuration][configurationlink] : container 내부에서 환경 변수를 설정하는 방법을 다룹니다. 
 
 [configurationlink]: https://ok-lab.tistory.com/129?category=921038
 
@@ -35,4 +35,6 @@
 
 ## Error
 
-[ifconfig][ifconfiglink] : 
+[ifconfig][ifconfiglink] : ifconfig : command not found error를 해결합니다.
+
+[ifconfiglink]: https://ok-lab.tistory.com/126?category=921038

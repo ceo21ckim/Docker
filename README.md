@@ -35,6 +35,6 @@
 
 ## Error
 
-[ifconfig][ifconfiglink] : <ifconfig : command not found> error를 해결합니다.
+[ifconfig][ifconfiglink] :\<ifconfig : command not found\> error를 해결합니다.
 
 [ifconfiglink]: https://ok-lab.tistory.com/126?category=921038

@@ -24,3 +24,15 @@
 [exec, attach, run][earlink] : docker에서 container에 접속하는 명령어인 exec, attach, run에 대해서 비교하는 내용을 다룹니다. 
 
 [earlink]:https://ok-lab.tistory.com/122 "exec, attach, run"
+
+[configuration][cofigurationlink] : container 내부에서 환경 변수를 설정하는 방법을 다룹니다. 
+
+[configurationlink]: https://ok-lab.tistory.com/129?category=921038
+
+
+
+
+
+## Error
+
+[ifconfig][ifconfiglink] : 
